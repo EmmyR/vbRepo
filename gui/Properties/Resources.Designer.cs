@@ -63,6 +63,16 @@ namespace gui.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pexels_cottonbro_4101164 {
+            get {
+                object obj = ResourceManager.GetObject("pexels-cottonbro-4101164", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap project_image {
             get {
                 object obj = ResourceManager.GetObject("project image", resourceCulture);

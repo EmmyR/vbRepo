@@ -8,3 +8,13 @@ C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.Properties.Resources.r
 C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.csproj.GenerateResource.Cache
 C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.exe
 C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.pdb
+E:\IDEs\vbRepo\gui\bin\Debug\gui.exe.config
+E:\IDEs\vbRepo\gui\obj\Debug\gui.exe
+E:\IDEs\vbRepo\gui\obj\Debug\gui.pdb
+E:\IDEs\vbRepo\gui\bin\Debug\gui.exe
+E:\IDEs\vbRepo\gui\bin\Debug\gui.pdb
+E:\IDEs\vbRepo\gui\obj\Debug\gui.csprojResolveAssemblyReference.cache
+E:\IDEs\vbRepo\gui\obj\Debug\gui.AssistiveDevice.resources
+E:\IDEs\vbRepo\gui\obj\Debug\gui.frmMain.resources
+E:\IDEs\vbRepo\gui\obj\Debug\gui.Properties.Resources.resources
+E:\IDEs\vbRepo\gui\obj\Debug\gui.csproj.GenerateResource.Cache
