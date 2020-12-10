@@ -18,3 +18,4 @@ E:\IDEs\vbRepo\gui\obj\Debug\gui.AssistiveDevice.resources
 E:\IDEs\vbRepo\gui\obj\Debug\gui.frmMain.resources
 E:\IDEs\vbRepo\gui\obj\Debug\gui.Properties.Resources.resources
 E:\IDEs\vbRepo\gui\obj\Debug\gui.csproj.GenerateResource.Cache
+E:\IDEs\vbRepo\gui\obj\Debug\gui.counselling.resources

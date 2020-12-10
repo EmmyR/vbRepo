@@ -30,6 +30,12 @@ namespace gui
 
         private void Donation_Click(object sender, EventArgs e)
         {
+            counselling counsel = new counselling();
+            counsel.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
 
         }
     }
