@@ -1,0 +1,10 @@
+C:\Users\emmy\Desktop\final project\gui\gui\bin\Debug\gui.exe.config
+C:\Users\emmy\Desktop\final project\gui\gui\bin\Debug\gui.exe
+C:\Users\emmy\Desktop\final project\gui\gui\bin\Debug\gui.pdb
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.csprojResolveAssemblyReference.cache
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.AssistiveDevice.resources
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.frmMain.resources
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.Properties.Resources.resources
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.csproj.GenerateResource.Cache
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.exe
+C:\Users\emmy\Desktop\final project\gui\gui\obj\Debug\gui.pdb
