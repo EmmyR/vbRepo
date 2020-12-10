@@ -34,8 +34,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -62,8 +62,9 @@
             this.Donation.Name = "Donation";
             this.Donation.Size = new System.Drawing.Size(145, 34);
             this.Donation.TabIndex = 2;
-            this.Donation.Text = "Donation";
+            this.Donation.Text = "Counselling";
             this.Donation.UseVisualStyleBackColor = true;
+            this.Donation.Click += new System.EventHandler(this.Donation_Click);
             // 
             // button3
             // 
@@ -112,16 +113,6 @@
             this.panel2.Size = new System.Drawing.Size(550, 50);
             this.panel2.TabIndex = 1;
             // 
-            // panel3
-            // 
-            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.panel3.BackgroundImage = global::gui.Properties.Resources.project_image2;
-            this.panel3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel3.Location = new System.Drawing.Point(145, 45);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(550, 275);
-            this.panel3.TabIndex = 2;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -131,6 +122,16 @@
             this.label1.Size = new System.Drawing.Size(330, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "ABLED DIFFERENTLY MONITORING SYSTEM";
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel3.BackgroundImage = global::gui.Properties.Resources.project_image2;
+            this.panel3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.panel3.Location = new System.Drawing.Point(145, 45);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(550, 275);
+            this.panel3.TabIndex = 2;
             // 
             // frmMain
             // 

@@ -27,5 +27,10 @@ namespace gui
         {
 
         }
+
+        private void Donation_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
